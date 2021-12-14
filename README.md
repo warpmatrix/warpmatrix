@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=warpmatrix)
+### Hi there, I'm warpmatrix 👋
 
 <!--
 **warpmatrix/warpmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=warpmatrix&show_icons=true&theme=vue&count_private=true" alt="warpmatrix's github stats" />
+
+- 🇨🇳 Chinese graduate at SMClab@SYSU
+- 🤔 Woking on Mobile Edge Computing
+- ⚡ Go, Python, C++...
