@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=warpmatrix&show_icons=true&theme=vue&count_private=true" alt="warpmatrix's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warpmatrix&layout=compact"/>
 
 - 🇨🇳 Chinese graduate at SMClab@SYSU
 - 🤔 Woking on Mobile Edge Computing
